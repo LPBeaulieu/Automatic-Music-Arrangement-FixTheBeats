@@ -13,4 +13,4 @@ FixTheBeats automatically arranges the notes in a MIDI file so that they fit wit
 
 ---
 
-<p align="left"> <b>Fix the Beats</b> FixTheBeats automatically arranges the notes in a MIDI file so that they fit within the range of your instrument. It then annotates the changes as lyric tags, which can be displayed in a scorewriter software.<br><br> Visit www.speakthebeats.com to see it in action. All the code is provided here to help you build on it!</p>
+<p align="left"> <b>Fix the Beats</b> automatically arranges the notes in a MIDI file so that they fit within the range of your instrument. It then annotates the changes as lyric tags, which can be displayed in a scorewriter software.<br><br> Visit www.speakthebeats.com to see it in action. All the code is provided here to help you build on it!</p>
